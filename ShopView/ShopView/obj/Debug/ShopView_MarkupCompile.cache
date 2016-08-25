@@ -1,0 +1,20 @@
+﻿ShopView
+
+
+winexe
+C#
+.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\
+ShopView
+none
+false
+DEBUG;TRACE
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\App.xaml
+141880802520
+
+26-1713249207
+16-1682469576
+MainWindow.xaml;UserControls\AddressUserControl.xaml;UserControls\BillUserControl.xaml;UserControls\ClientUserControl.xaml;UserControls\OrderUserControl.xaml;UserControls\OwnerUserControl.xaml;UserControls\ProductsUserControl.xaml;UserControls\ProviderUserControl.xaml;UserControls\ShopUserControl.xaml;View\Base\ClientView.xaml;View\Pages\Page1.xaml;View\Pages\Page2.xaml;View\Pages\Page3.xaml;View\Window1.xaml;
+
+False
+

@@ -1,0 +1,28 @@
+﻿<uc:BaseUserControl
+             x:Class="ShopView.UserControls.ClientUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:uc="clr-namespace:ShopView.UserControls.Base"
+             xmlns:local="clr-namespace:ShopView.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="ClientIdTxtB" Text="{Binding Client.Id}"/>
+        <TextBlock x:Name="ClientFirstnameTxtB" Text="{Binding Client.Firstname}"/>
+        <TextBlock x:Name="ClientLastnameTxtB" Text="{Binding Client.Lastname}"/>
+        <TextBlock x:Name="ClientAddressTxtB" Text="{Binding Client.Address}"/>
+        <TextBlock x:Name="ClientMoneyTxtB" Text="{Binding Client.Money}"/>
+    </Grid>
+</uc:BaseUserControl>

@@ -1,0 +1,107 @@
+c:\users\stitch\documents\visual studio 2015\Projects\ShopView\ShopView\bin\Debug\ShopView.exe.config
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\bin\Debug\ShopView.exe
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\bin\Debug\ShopView.pdb
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView.csprojResolveAssemblyReference.cache
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\MainWindow.g.cs
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\App.g.cs
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView_MarkupCompile.cache
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView_MarkupCompile.lref
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\MainWindow.baml
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView.g.resources
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView.Properties.Resources.resources
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView.csproj.GenerateResource.Cache
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView.exe
+C:\Users\Stitch\Documents\Visual Studio 2015\Projects\ShopView\ShopView\obj\Debug\ShopView.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopView.exe.config
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\MainWindow.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page1.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page2.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page3.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Window1.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\App.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView_MarkupCompile.cache
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView_MarkupCompile.lref
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.csprojResolveAssemblyReference.cache
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\MainWindow.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page1.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page2.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page3.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Window1.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.exe
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ClientUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopView.exe
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopView.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ClientUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.g.resources
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.Properties.Resources.resources
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.csproj.GenerateResource.Cache
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\AddressUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\BillUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OrderUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OwnerUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProductsUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProviderUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ShopUserControl.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\AddressUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\BillUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OrderUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OwnerUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProductsUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProviderUserControl.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ShopUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopView.exe.config
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.exe
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.pdb
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.csprojResolveAssemblyReference.cache
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\MainWindow.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\AddressUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\BillUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ClientUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OrderUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OwnerUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProductsUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProviderUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ShopUserControl.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page1.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page2.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page3.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Window1.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\App.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView_MarkupCompile.cache
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView_MarkupCompile.lref
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopView.exe
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopView.pdb
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopCsharp.dll
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopCsharp.pdb
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Base\ClientView.g.cs
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\MainWindow.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\AddressUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\BillUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ClientUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OrderUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\OwnerUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProductsUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ProviderUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\UserControls\ShopUserControl.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Base\ClientView.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page1.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page2.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Pages\Page3.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Window1.baml
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.g.resources
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.Properties.Resources.resources
+C:\Users\Stitch\Desktop\Projects\ShopView\ShopView\obj\Debug\ShopView.csproj.GenerateResource.Cache
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopCsharp.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\Faker.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\ShopCsharp.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Base\ClientView.g.cs
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\obj\Debug\View\Base\ClientView.baml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\EntityFramework.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\MySql.Data.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\EntityFramework.xml
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopView\ShopView\bin\Debug\Newtonsoft.Json.xml

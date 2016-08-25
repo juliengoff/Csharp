@@ -1,0 +1,20 @@
+C:\Users\Stitch\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\ShopCsharp.dll
+C:\Users\Stitch\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\ShopCsharp.pdb
+C:\Users\Stitch\Desktop\Projects\ShopCsharp\ShopCsharp\obj\Debug\ShopCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Stitch\Desktop\Projects\ShopCsharp\ShopCsharp\obj\Debug\ShopCsharp.dll
+C:\Users\Stitch\Desktop\Projects\ShopCsharp\ShopCsharp\obj\Debug\ShopCsharp.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\ShopCsharp.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\ShopCsharp.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\Faker.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\obj\Debug\ShopCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\obj\Debug\ShopCsharp.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\obj\Debug\ShopCsharp.pdb
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\ShopCsharp.dll.config
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\EntityFramework.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\MySql.Data.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\EntityFramework.xml
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julien Goff\Desktop\Projects\ShopCsharp\ShopCsharp\bin\Debug\Newtonsoft.Json.xml
